@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="AirzoneCloud",
-    version="0.5.0",
+    version="0.5.0.1",
     author="max13fr",
     author_email="max13fr@yozo.fr",
     description="Python3 library for Airzone Cloud API",
